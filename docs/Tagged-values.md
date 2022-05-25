@@ -10,7 +10,6 @@ De tabellen in de volgende secties bevatten de tagged values voor de SIM, UGM en
 
 ## Tagged values voor de MIG gebaseerde SIM (Semantische Informatie Modellen)
 
-
 | Tagged value naam| Waar | Verplicht (in) | Beschrijving | Mogelijke waarden _(in vet de defaultwaarde)_ | Afleiding mogelijk |
 | -----------------| --- | --- | --- | --- | --- |
 | 'Aanduiding strijdigheid/nietigheid' | Attribuutsoort, Gegevensgroeptype, Relatiesoort | Ja | De aanduiding of te bevragen is dat de attribuutwaarde strijdig met de openbare orde dan wel nietig is. | | Ja |
